@@ -1,0 +1,6 @@
+2023-05-16 23:05:881 INFO  LoginPage :31 - Enter User Name [[ChromeDriver: chrome on WINDOWS (2f509cdafef5cac1e287dad2ce4d2bc7)] -> id: user-name]
+2023-05-16 23:05:83 INFO  LoginPage :36 - Enter Password [[ChromeDriver: chrome on WINDOWS (2f509cdafef5cac1e287dad2ce4d2bc7)] -> id: password]
+2023-05-16 23:05:214 INFO  LoginPage :42 - Click on Login Button
+2023-05-16 23:05:749 INFO  LoginPage :31 - Enter User Name [[ChromeDriver: chrome on WINDOWS (daf8c26f39b42d93bf1864fd19ee8086)] -> id: user-name]
+2023-05-16 23:05:940 INFO  LoginPage :36 - Enter Password [[ChromeDriver: chrome on WINDOWS (daf8c26f39b42d93bf1864fd19ee8086)] -> id: password]
+2023-05-16 23:05:69 INFO  LoginPage :42 - Click on Login Button
